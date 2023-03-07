@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pac-Man Xtreme</title>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/view.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<style>
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    .dropdown-content a:hover {background-color: #f1f1f1}
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    .dropdown:hover .dropbtn {
+        background-color: #3e8e41;
+    }
+</style>
+
+<body style="background-color:navy;">
+<div>
+    <div style="position: absolute; left: 200px; top: 30px; color: deepskyblue">
+        <h2 id="level">Level: 1</h2>
+        <h2 id="life">Life: 3</h2>
+        <h2 id="score">Score: 0</h2>
+    </div>
+    <div style="position: absolute; width: 1050px; height: 950px; left: 500px; top:50px;">
+        <canvas id="canvas-static" width="1050" height="950" style="background-color:navy; z-index:1;position:absolute;"></canvas>
+        <canvas id="canvas-dynamic" width="1050" height="950" style="z-index:2;position:absolute;"></canvas>
+    </div>
+    <div class="dropdown" style="position:absolute; left: 200px; top: 200px;">
+        <button type="button" button class="btn-primary btn-lg" style = "width:140px;">Select Level</button>
+        <div class="dropdown-content" id="select-level">
+            <a href="#" id="level1">Level 1</a>
+            <a href="#" id="level2">Level 2</a>
+            <a href="#" id="level3">Level 3</a>
+        </div>
+    </div>
+    <div style="position: absolute; left: 200px; top: 750px;">
+        <button type="button" id="btn-start" class="btn btn-success btn-lg" style="width:140px;position:absolute; top:0px;">Start Game</button>
+        <button type="button" id="btn-pause" class="btn btn-danger btn-lg"  style="width:140px;position:absolute; top:60px;">Pause Game</button>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\adapter\DispatchAdapter.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\controller\GameController.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\APaintObj.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\cmd\CollisionCmd.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\cmd\IPacmanCmd.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\cmd\MovementCmd.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\CollisionStrategyFactory.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\ICollisionFac.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\IMovementFac.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\IStationaryFac.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\IUpdateFac.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\MovableElementFactory.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\MovementStrategyFac.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\factory\StationaryElementFac.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\GameStore.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\movingelements\AMovingElement.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\movingelements\Character.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\movingelements\Ghost.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\movingelements\NullElement.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\stationaryelements\AStationaryElement.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\stationaryelements\Dot.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\stationaryelements\Fruit.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\stationaryelements\Wall.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\collision\CharacterCollisionStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\collision\GhostCollisionStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\collision\ICollisionStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\CharacterMovementStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\GhostChasingStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\GhostEscapingStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\GhostMovementStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\GhostPatrollingStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\GhostRandomStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\GhostReturningStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\model\strategy\movement\IUpdateStrategy.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\util\GameUtil.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\util\JsonUtil.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\util\Pair.java">
+</file>
+<file name="D:\个人\ZidaneAndMessi\Rice\MCS\COMP 504 Graduate Object-Oriented Programming and Design\final-game-team_xtreme\src\main\java\edu\rice\comp504\util\PointUtil.java">
+</file>
+</checkstyle>
