@@ -5,5 +5,10 @@ A simple Web Pacman Game based on Java & Maven.
 
     java -jar target/pacman-final-team-xtreme-1.0-SNAPSHOT-jar-with-dependencies.jar
 
-# Heroku URL
+Then, visit http://localhost:4567/.
+
+# Demo URL
   https://pacman-final-team-xtreme.herokuapp.com/
+
+# Preview
+  ![](resources/preview.png)
